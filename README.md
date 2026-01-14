@@ -8,6 +8,8 @@ Review useful concepts for manual testing in the agile world, as well as underst
 
 [Diagram](/images/diagram.png)
 
+<img width="1024" height="1536" alt="diagram" src="https://github.com/user-attachments/assets/037204bb-d040-42bb-afa8-8c928f781781" />
+
 [LICENSE](/LICENSE)
 
 See [original repository](https://github.com/CarolinaSL/myDioProject).
